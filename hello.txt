@@ -1,7 +1,7 @@
 Hello World! 我不怕千万人阻挡只怕自己投降
 This is my first Git.	fall
 This is my first Git.	one
-This is my first Git.
+安静等待轨迹的放逐
 This is my first Git.
 This is my first Git.
 This is my first Git.
